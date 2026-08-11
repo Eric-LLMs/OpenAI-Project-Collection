@@ -896,6 +896,8 @@
   📄 [papers/Agents'-Last-Exam.pdf](papers/Agents'-Last-Exam.pdf)
 - [ ] **CodeClash: Benchmarking Goal-Oriented Software Engineering**
   📄 [papers/CodeClash-Benchmarking-Goal-Oriented-Software-Engineering.pdf](papers/CodeClash-Benchmarking-Goal-Oriented-Software-Engineering.pdf)
+- [ ] **SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring**
+  📄 [papers/SWE-Bench-ProMax-Benchmarking-Agents-on-Large-Scale-Multilingual-Code-Refactoring.pdf](papers/SWE-Bench-ProMax-Benchmarking-Agents-on-Large-Scale-Multilingual-Code-Refactoring.pdf)
 - [ ] **Can Agent Conquer Web: Exploring the Frontiers of ChatGPT Atlas Agent in Web Games**
   📄 [papers/Can-Agent-Conquer-Web-Exploring-the-Frontiers-of-ChatGPT-Atlas-Agent-in-Web-Games.pdf](papers/Can-Agent-Conquer-Web-Exploring-the-Frontiers-of-ChatGPT-Atlas-Agent-in-Web-Games.pdf)
 - [ ] **Evolutionary Perspectives on the Evaluation of LLM-Based AI Agents: A Comprehensive Survey**
