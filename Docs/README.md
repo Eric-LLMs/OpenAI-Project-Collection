@@ -832,6 +832,8 @@
   📄 [papers/MARL-GPT-Foundation-Model-for-Multi-Agent-Reinforcement-Learning.pdf](papers/MARL-GPT-Foundation-Model-for-Multi-Agent-Reinforcement-Learning.pdf)
 - [ ] **Task Decomposition with Multi-Agent Systems**
   📄 [papers/Task-Decomposition-with-Multi-Agent-Systems.pdf](papers/Task-Decomposition-with-Multi-Agent-Systems.pdf)
+- [ ] **Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems**
+  📄 [papers/Mind-Viruses-Self-Propagating-Ideas-in-Multi-Agent-LLM-Systems.pdf](papers/Mind-Viruses-Self-Propagating-Ideas-in-Multi-Agent-LLM-Systems.pdf)
 
 ### 12.4 Self-Evolving Agents
 - [ ] **A Comprehensive Survey of Self-Evolving AI Agents**
